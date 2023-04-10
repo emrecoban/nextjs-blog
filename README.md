@@ -35,6 +35,7 @@ The app is built using the following technologies:
 - `pages/_app.js:` A top-level React component that wraps all the pages in your application.
 - `clsx` library: In className property, it's like a if-statement - [How to use](https://nextjs.org/learn/basics/assets-metadata-css/styling-tips).
 - [Pre-rendering](https://nextjs.org/learn/basics/data-fetching/pre-rendering)
+- [gray-matter](https://nextjs.org/learn/basics/data-fetching/blog-data): Lets us parse the metadata in each markdown file.
 
 
 ## Acknowledgements
