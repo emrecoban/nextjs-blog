@@ -25,6 +25,15 @@ The app is built using the following technologies:
 - Next.js
 - React
 
+## Topics
+- `Pages` directory: Pages are associated with a route based on their file name.
+- `next/link:` Linking between pages in your application.
+- `next/image:` Resizing & optimizing images.
+- `next/head:` Adding metadatas.
+- `next/script:` Loading third-party scripts such as analytics, ads.
+- [CSS Modules](https://nextjs.org/docs/basic-features/built-in-css-support): Allow you to locally scope CSS at the component-level by automatically creating unique class names. 
+
+
 ## Acknowledgements
 This app was created as part of the tutorial provided by Next.js. The tutorial was very helpful in guiding me through the process of building a blog app using Next.js.
 
