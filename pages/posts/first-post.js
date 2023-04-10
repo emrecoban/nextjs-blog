@@ -9,9 +9,6 @@ export default function FirstPost(){
                 <title>First Post in Next.js</title>
             </Head>
             <h1>It's first post!</h1>
-            <h2>
-                <Link href="/">Back to home</Link>
-            </h2>
         </Layout>
     );
 }

@@ -12,6 +12,10 @@ a {
   color: #0070f3;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 * {
   box-sizing: border-box;
 }
