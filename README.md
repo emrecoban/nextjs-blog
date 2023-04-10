@@ -1,6 +1,17 @@
 # Next.js Blog App
 This is a simple blog app built using Next.js. The app is created as part of the tutorial provided by Next.js.
 
+[Preview on Vercel](https://emreblog.vercel.app/)
+
+## Features
+The app includes the following features:
+- Home page displaying a list of blog posts
+- Individual blog post pages
+
+## Screenshots
+![homepage](./github_assets/home.png)
+![post-detail](./github_assets/post-detail.png)
+
 ## Getting Started
 To get started with the app, clone the repository and install the dependencies.
 ```bash
@@ -14,11 +25,6 @@ Once the dependencies are installed, you can run the development server using th
 npm run dev
 ```
 The app should now be running on [http://localhost:3000](http://localhost:3000).
-
-## Features
-The app includes the following features:
-- Home page displaying a list of blog posts
-- Individual blog post pages
 
 ## Built with
 The app is built using the following technologies:
