@@ -39,6 +39,9 @@ The app is built using the following technologies:
 - [getStaticProps](https://nextjs.org/learn/basics/data-fetching/implement-getstaticprops)
 - [getServerSideProps](https://nextjs.org/learn/basics/data-fetching/request-time): If you need to fetch data at request time instead of at build time, you can try Server-side Rendering
 - [SWR](https://swr.vercel.app/): A React hook for data fetching.
+- [remark library](https://nextjs.org/learn/basics/dynamic-routes/render-markdown): To render markdown content, we’ll use the remark library.
+- [date-fns library](https://nextjs.org/learn/basics/dynamic-routes/polishing-post-page): To format the date, we’ll use the date-fns library.
+
 
 
 
