@@ -32,7 +32,9 @@ The app is built using the following technologies:
 - `next/head:` Adding metadatas.
 - `next/script:` Loading third-party scripts such as analytics, ads.
 - [CSS Modules](https://nextjs.org/docs/basic-features/built-in-css-support): Allow you to locally scope CSS at the component-level by automatically creating unique class names.
-- `pages/_app.js:` A top-level React component that wraps all the pages in your application. 
+- `pages/_app.js:` A top-level React component that wraps all the pages in your application.
+- `clsx` library: In className property, it's like a if-statement - [How to use](https://nextjs.org/learn/basics/assets-metadata-css/styling-tips).
+- [Pre-rendering](https://nextjs.org/learn/basics/data-fetching/pre-rendering)
 
 
 ## Acknowledgements
