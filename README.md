@@ -36,6 +36,10 @@ The app is built using the following technologies:
 - `clsx` library: In className property, it's like a if-statement - [How to use](https://nextjs.org/learn/basics/assets-metadata-css/styling-tips).
 - [Pre-rendering](https://nextjs.org/learn/basics/data-fetching/pre-rendering)
 - [gray-matter](https://nextjs.org/learn/basics/data-fetching/blog-data): Lets us parse the metadata in each markdown file.
+- [getStaticProps](https://nextjs.org/learn/basics/data-fetching/implement-getstaticprops)
+- [getServerSideProps](https://nextjs.org/learn/basics/data-fetching/request-time): If you need to fetch data at request time instead of at build time, you can try Server-side Rendering
+- [SWR](https://swr.vercel.app/): A React hook for data fetching.
+
 
 
 ## Acknowledgements
