@@ -41,7 +41,7 @@ The app is built using the following technologies:
 - [SWR](https://swr.vercel.app/): A React hook for data fetching.
 - [remark library](https://nextjs.org/learn/basics/dynamic-routes/render-markdown): To render markdown content, we’ll use the remark library.
 - [date-fns library](https://nextjs.org/learn/basics/dynamic-routes/polishing-post-page): To format the date, we’ll use the date-fns library.
-
+- [getStaticPaths](https://nextjs.org/learn/basics/dynamic-routes/dynamic-routes-details): Define your paths auto.
 
 
 
