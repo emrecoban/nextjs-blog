@@ -7,6 +7,9 @@ import Link from 'next/link';
 
 export async function getStaticProps(){
   const allPostsData = getSortedPostsData();
+  const apiEP = await fetch('http://localhost:3000/api/hello');
+  const apiEvP = await apiEP.json();
+  console.log("API =>", JSON.stringify(apiEvP, null, 2))
   return {
     props: {
       allPostsData,
