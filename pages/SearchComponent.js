@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import utilStyles from "../styles/utils.module.css";
 import Link from 'next/link';
+import Date from "../components/date";
 
 export default function SearchComponent({ data }) {
     const [posts, setPosts] = useState(data)
